@@ -1,0 +1,12 @@
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/bin/Debug/netcoreapp3.1/Week2-Examples.deps.json
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/bin/Debug/netcoreapp3.1/Week2-Examples.runtimeconfig.json
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/bin/Debug/netcoreapp3.1/Week2-Examples.runtimeconfig.dev.json
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/bin/Debug/netcoreapp3.1/Week2-Examples.dll
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/bin/Debug/netcoreapp3.1/Week2-Examples.pdb
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/obj/Debug/netcoreapp3.1/Week2-Examples.csprojAssemblyReference.cache
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/obj/Debug/netcoreapp3.1/Week2-Examples.AssemblyInfoInputs.cache
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/obj/Debug/netcoreapp3.1/Week2-Examples.AssemblyInfo.cs
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/obj/Debug/netcoreapp3.1/Week2-Examples.csproj.CoreCompileInputs.cache
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/obj/Debug/netcoreapp3.1/Week2-Examples.dll
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/obj/Debug/netcoreapp3.1/Week2-Examples.pdb
+/Users/stephanie/Projects/Week2-Examples/Week2-Examples/obj/Debug/netcoreapp3.1/Week2-Examples.genruntimeconfig.cache
